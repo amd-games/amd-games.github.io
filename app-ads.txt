@@ -1,8 +1,8 @@
 #admob
 google.com, pub-4835444115564560, DIRECT, f08c47fec0942fa0
 
-#applovin KT
-applovin.com, 925029e77e2b9fb6e82f990f59eeca57, DIRECT
+#applovin
+applovin.com, 25b535edb9c688919772585f2eed03a1, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
@@ -39,7 +39,6 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
-
 
 
 #unity Anas
